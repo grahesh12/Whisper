@@ -1,1 +1,1 @@
-WHISPER_MODEL = "base"  # or "base.en", "small", etc.
+WHISPER_MODEL = "medium"  # or "base.en", "small", etc.

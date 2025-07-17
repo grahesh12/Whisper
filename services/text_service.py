@@ -5,6 +5,7 @@ translator = Translator()
 
 def translate_text(text):
     try:
+        print(text)
         translated = translator.translate(text, dest='en')
         return {
             'status': 'success',
